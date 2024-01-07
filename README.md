@@ -51,6 +51,7 @@ Para este exemplo o retorno deve ser 1, que é o id do CS que atende 4 clientes:
 ```
 
 ## Como rodar os testes
+O código foi testado nas versões do Ruby 2.7.7 e 3.0.4
 
 No terminal, execute o comando:
 
