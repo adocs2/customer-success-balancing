@@ -57,3 +57,6 @@ No terminal, execute o comando:
 ```
 ruby customer_success_balancing.rb
 ```
+
+## Sobre os testes
+além dos casos de teste providos no arquivo base, foi criado testes unitários extras para as funções implementadas
